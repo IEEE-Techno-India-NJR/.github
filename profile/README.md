@@ -1,9 +1,3 @@
-Great, Rohit! 🚀 Since you want a **README** for your IEEE Student Branch organization (with your current members list, some roles filled, some blank), I’ll create a clean, professional, GitHub-style README that you can later update when missing details are filled. I’ll also align it with the tone of your **IEEE-Student-Branch-First-Event** document.
-
-Here’s a draft:
-
----
-
 # IEEE Student Branch – Techno India NJR
 
 Welcome to the official repository of the **IEEE Student Branch, Techno India NJR**.
@@ -74,7 +68,3 @@ The IEEE Student Branch at Techno India NJR provides a vibrant platform for stud
 ---
 
 ⚡ *"Advancing Technology for Humanity – Together at IEEE Student Branch, Techno India NJR."*
-
----
-
-Would you like me to also make this **README visually attractive with badges (like GitHub shields for IEEE, Chair, Treasurer, Events, etc.)**, so it looks more professional when you upload it on GitHub?
