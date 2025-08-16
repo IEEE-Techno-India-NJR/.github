@@ -18,26 +18,34 @@ The IEEE Student Branch at Techno India NJR provides a vibrant platform for stud
 
 ---
 
-## 👥 Our Team
+## 🎓 Faculty Coordinators
 
-| Name          | GitHub                                    | Role                                     |
-|---------------|-------------------------------------------|------------------------------------------|
-| **Rohit Agarwal** | [@rohitagr0310](https://github.com/rohitagr0310) | Chair |
-| **Rajatraj**      | –                                       | Vice Chair |
-| **Dishi**         | –                                       | Secretary |
-| **Hital**         | –                                       | Executive Corporate Affairs Coordinator |
-| **Lakshya**       | –                                       | Graphic Designer |
-| **Plaksha**       | –                                       | Event Feedback Coordinator |
-| **Mahima**        | –                                       | Media Person & Web Master |
-| **Rudraksh**      | –                                       | Event Feedback Coordinator |
-| **Abhishek**      | –                                       | Treasurer |
-| **Vaishali**      | –                                       | – |
-| **Tuhina**        | –                                       | – |
-| **Gaurav**        | –                                       | Executive Program Coordinator |
-| **Rishabh**       | –                                       | – |
-| **Aziz**          | –                                       | Corporate Affairs Coordinator |
-| **Khushbu**       | –                                       | Program Coordinator |
+| Name                       | Role                |
+| -------------------------- | ------------------- |
+| **Dr. Aaditya Maheshwari** | Faculty Coordinator |
+| **Mr. Hitesh Sen**         | Faculty Coordinator |
 
+---
+
+## 👥 Student Committee
+
+| Name              | GitHub                                                       | Role                                    |
+| ----------------- | ------------------------------------------------------------ | --------------------------------------- |
+| **Rohit Agarwal** | [@rohitagr0310](https://github.com/rohitagr0310)             | Chair                                   |
+| **Rajatraj**      | –                                                            | Vice Chair                              |
+| **Dishi**         | –                                                            | Secretary                               |
+| **Hital**         | –                                                            | Executive Corporate Affairs Coordinator |
+| **Lakshya**       | –                                                            | Graphic Designer                        |
+| **Plaksha**       | –                                                            | Event Feedback Coordinator              |
+| **Mahima**        | –                                                            | Media Person & Web Master               |
+| **Rudraksh**      | –                                                            | Event Feedback Coordinator              |
+| **Abhishek**      | –                                                            | Treasurer                               |
+| **Vaishali**      | –                                                            | –                                       |
+| **Tuhina**        | –                                                            | –                                       |
+| **Gaurav**        | –                                                            | Executive Program Coordinator           |
+| **Rishabh**       | –                                                            | –                                       |
+| **Aziz**          | –                                                            | Corporate Affairs Coordinator           |
+| **Khushbu**       | –                                                            | Program Coordinator                     |
 
 ---
 
@@ -67,4 +75,4 @@ The IEEE Student Branch at Techno India NJR provides a vibrant platform for stud
 
 ---
 
-⚡ *"Advancing Technology for Humanity – Together at IEEE Student Branch, Techno India NJR."*
+⚡ *"Advancing Technology for Humanity – Together at IEEE Student Branch, Techno India NJR Institute of Technology."*
